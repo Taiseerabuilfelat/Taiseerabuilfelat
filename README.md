@@ -47,7 +47,7 @@ I have worked on a variety of projects ranging from optimizing pediatric dashboa
 
 ## 📫 Connect With Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/taiseerabuilfelat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- **LinkedIn**: [https://www.linkedin.com/in/taiseerabuilfelat
 - **Email**: [Taiseerabuilfelat@gmail.com]
 
 ---
