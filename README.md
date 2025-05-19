@@ -1,7 +1,8 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F8ACB&center=true&vCenter=true&width=700&lines=Taiseer+Abuilfelat;Data+Scientist+%2F+AI+Engineer+%2F+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1F8ACB&center=true&vCenter=true&width=800&lines=Taiseer+Abuilfelat;Data+Scientist+%2F+AI+Engineer+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 
 I’m passionate about turning complex datasets into meaningful insights and building scalable AI solutions that solve real-world problems. With experience in developing predictive models, optimizing healthcare analytics, and implementing de-identification systems across various data types, I strive to bring clarity and innovation to every project I work on.
