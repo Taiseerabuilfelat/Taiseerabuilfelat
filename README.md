@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&width=435&lines=taiseer+abuilfelat;Data+Scientist+%7C+AI+Engineer+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&width=500&lines=Taiseer+Abuilfelat;Data+Scientist+%2F+AI+Engineer+%2F+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 
