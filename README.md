@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Taiseer Abuilfelat
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&width=435&lines=taiseer+abuilfelat;Data+Scientist+%7C+AI+Engineer+%7C+ML+Enthusiast" alt="Typing SVG" />
+</p>
 
-**Data Scientist | AI Engineer | ML Enthusiast**
 
 I’m passionate about turning complex datasets into meaningful insights and building scalable AI solutions that solve real-world problems. With experience in developing predictive models, optimizing healthcare analytics, and implementing de-identification systems across various data types, I strive to bring clarity and innovation to every project I work on.
 
