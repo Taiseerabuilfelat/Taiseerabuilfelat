@@ -1,16 +1,52 @@
-<h1 align="center">Hi 👋, I'm Taiseer Abuilfelat</h1>
-<h3 align="center">Data Scientist/ AI Engineer</h3>
+# 👋 Hi, I'm Taiseer Abuilfelat
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taiseerabuilfelat&label=Profile%20views&color=0e75b6&style=flat" alt="taiseerabuilfelat" /> </p>
+**Data Scientist | AI Engineer | ML Enthusiast**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taiseerabuilfelat" alt="taiseerabuilfelat" /></a> </p>
+I’m passionate about turning complex datasets into meaningful insights and building scalable AI solutions that solve real-world problems. With experience in developing predictive models, optimizing healthcare analytics, and implementing de-identification systems across various data types, I strive to bring clarity and innovation to every project I work on.
 
-- 📫 How to reach me **Taiseerabuilfelat@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/taiseer abuilfelat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiseer abuilfelat" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I have worked on a variety of projects ranging from optimizing pediatric dashboards to predicting bed utilization using time series models. I also have experience implementing de-identification pipelines using state-of-the-art machine learning models. My core interest lies in leveraging ML and DL to transform raw data into intelligent, actionable solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Machine Learning & AI
+- **Libraries**: TensorFlow, Scikit-learn, PyTorch  
+- **AutoML**: AutoML tools
+
+### 🤖 Deep Learning
+- **Frameworks**: Keras, FastAPI  
+- **Concepts**: Neural Networks
+
+### 📈 Time Series
+- **Libraries**: Prophet, ARIMA, LSTM
+
+### ⚙️ Data Processing
+- **Libraries**: Pandas, NumPy  
+- **Tools**: KNIME
+
+### 🗄️ Databases
+- **SQL**: PostgreSQL, MySQL
+
+### 🛠️ Tools & Platforms
+- **Development**: VS Code, Jupyter, Google Colab  
+- **Containers & Orchestration**: Docker, Apache Airflow
+
+### 📊 Visualization
+- **Libraries**: Matplotlib, Seaborn  
+- **Tools**: Power BI
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn**: [https://www.linkedin.com/in/taiseerabuilfelat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- **Email**: [Taiseerabuilfelat@gmail.com]
+
+---
+
+Feel free to check out my repositories and contributions!
