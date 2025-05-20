@@ -60,5 +60,10 @@ I have worked on a variety of projects ranging from optimizing pediatric dashboa
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+### 🌟 Highlights
+- 🧠 Built predictive models for Breast-Cancer 
+- 🔒 Developed people-tracking-model-using-YOLO-v11
+
+
 
 Feel free to check out my repositories and contributions!
